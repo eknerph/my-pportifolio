@@ -1,6 +1,9 @@
 export default function Home() {
   return (
     <main>
+      <div className="header">
+
+      </div>
         <Image
           src="/vercel.svg"
           alt="Vercel logo"
