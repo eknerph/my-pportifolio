@@ -1,15 +1,12 @@
-import Image from "next/image";
-
 export default function Home() {
   return (
-    <main className="styles.main">
+    <main>
         <Image
-        src="/vercel.svg"
-        alt="Vercel logo"
-        className={StyleSheet.vercelLogo}
-        width={100}
-        height={24}
-        priority
+          src="/vercel.svg"
+          alt="Vercel logo"
+          width={100}
+          height={24}
+          priority
         />
     </main>      
   )
