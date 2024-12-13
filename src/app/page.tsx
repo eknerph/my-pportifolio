@@ -9,6 +9,10 @@ export default function Home() {
           height={24}
           priority
         />
+        <div>
+          <h1>Hi, I'm Ekner Alexandre</h1>
+          <h2>Software Engineer</h2>
+        </div>
       </div>
     </main>      
   )
