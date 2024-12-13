@@ -14,6 +14,9 @@ export default function Home() {
           <h2>Software Engineer</h2>
         </div>
       </div>
+      <div className="expirence">
+        
+      </div>
     </main>      
   )
 }
