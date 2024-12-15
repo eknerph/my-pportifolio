@@ -23,10 +23,11 @@ export default function Home() {
           <div className="infos">
             <h3>Languages</h3>
           <div className="Languages-info">
-            <span>EN - Fluent</span>
-            <span>PT-BR - Native Speaker</span>
+            <span> 🇺🇸 EN - Fluent</span>
+            <span> 🇧🇷 PT-BR - Native Speaker</span>
           </div>
           <h3>Education</h3>
+          <span></span>
         </div>
       </div>
     </main>      
