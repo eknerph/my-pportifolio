@@ -21,7 +21,9 @@ export default function Home() {
       <div className="experience-time">
 
       </div>
-      .
+      <div className="infos">
+        <h3>Languages</h3>
+      </div>
     </main>      
   )
 }
