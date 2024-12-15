@@ -24,7 +24,8 @@ export default function Home() {
       <div className="infos">
         <h3>Languages</h3>
         <div className="Languages-info">
-          <span></span>
+          <span>EN - Fluent</span>
+          <span>PT-BR - Native Speaker</span>
         </div>
       </div>
     </main>      
