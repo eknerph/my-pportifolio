@@ -18,6 +18,10 @@ export default function Home() {
         <h3>Experience</h3>
         <p>texto</p>
       </div>
+      <div className="experience-time">
+
+      </div>
+      .
     </main>      
   )
 }
