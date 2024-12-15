@@ -23,6 +23,9 @@ export default function Home() {
       </div>
       <div className="infos">
         <h3>Languages</h3>
+        <div className="Languages-info">
+          <span></span>
+        </div>
       </div>
     </main>      
   )
