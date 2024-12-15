@@ -14,18 +14,19 @@ export default function Home() {
           <h2>Software Engineer</h2>
         </div>
       </div>
-      <div className="expirence">
-        <h3>Experience</h3>
-        <p>texto</p>
-      </div>
-      <div className="experience-time">
+        <div className="expirence">
+          <h3>Experience</h3>
+          <p>texto</p>
+          <div className="experience-time">
 
-      </div>
-      <div className="infos">
-        <h3>Languages</h3>
-        <div className="Languages-info">
-          <span>EN - Fluent</span>
-          <span>PT-BR - Native Speaker</span>
+          </div>
+          <div className="infos">
+            <h3>Languages</h3>
+          <div className="Languages-info">
+            <span>EN - Fluent</span>
+            <span>PT-BR - Native Speaker</span>
+          </div>
+          <h3>Education</h3>
         </div>
       </div>
     </main>      
